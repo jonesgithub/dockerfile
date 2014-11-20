@@ -1,5 +1,5 @@
 # base image to use
-FROM uwsgi
+FROM xjdrew:uwsgi
 MAINTAINER xjdrew
 
 # install 
